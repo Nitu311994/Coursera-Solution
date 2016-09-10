@@ -1,6 +1,17 @@
+*{
+	box-sizing: border-box;
+}
+
 .head{
    text-align: center;
+   font-family: Verdana, courier, sans;
+   margin-bottom: 100px;
    
+   font-size: 40px;
 
+.mind{
 
+    background-color:green;
+    display: inline-block;
+  
 }
