@@ -20,6 +20,7 @@ header{
 section{
 	position: relative;
 	right: 0px;
+	border: 1px soild blue;
 }
 article{
     font-family: Verdana;
